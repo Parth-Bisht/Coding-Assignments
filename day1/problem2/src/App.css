@@ -1,0 +1,24 @@
+.App{
+  display: grid;
+  grid-template-columns: repeat(2,100px);
+  gap: 14px;
+  width: 19%;
+  margin: 10px auto;
+}
+
+.App>button{
+  border-radius: 50px;
+    padding: 6px;
+    font-weight: 700;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+#blue{
+  background-color: #2098cd;
+}
+
+#cadeBlue{
+  background-color: #77a0b2;
+}
