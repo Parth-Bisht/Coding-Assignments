@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "name": "aman",
+      "age": "20",
+      "address": "nainital",
+      "salary": "4000000",
+      "department": "Marketing ",
+      "married": true,
+      "id": 2
+    }
+   
+  ]
+}
