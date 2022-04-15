@@ -8,7 +8,50 @@
       "department": "Marketing ",
       "married": true,
       "id": 2
+    },
+    {
+      "name": "Parth Bisht",
+      "age": "12",
+      "address": "hkld",
+      "department": "Sales  ",
+      "salary": "6777",
+      "married": false,
+      "id": 3
+    },
+    {
+      "name": "jyoti",
+      "age": "25",
+      "address": "nainital",
+      "department": "Production",
+      "salary": "20000",
+      "married": false,
+      "id": 4
+    },
+    {
+      "name": "parth",
+      "age": "11",
+      "address": "asdfdsf",
+      "department": "Marketing ",
+      "salary": "777",
+      "married": true,
+      "id": 5
+    },
+    {
+      "name": "shanti",
+      "age": "30",
+      "address": "tamil nadu",
+      "department": "IT",
+      "salary": "89000",
+      "married": true,
+      "id": 6
+    },
+    {
+      "name": "ritik",
+      "age": "21",
+      "address": "gurgaon",
+      "department": "Sales  ",
+      "salary": "78787878",
+      "id": 7
     }
-   
   ]
 }
