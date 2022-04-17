@@ -1,0 +1,135 @@
+{
+  "restros": [
+    {
+      "id": 1,
+      "name": "URU Brewpark",
+      "min": "50",
+      "paymentMethods": "Accepts Online payment only",
+      "imgURL": "https://b.zmtcdn.com/data/dish_photos/d21/db898f3cf54de0e06970c343f680dd21.jpg?fit=around|130:130&crop=130:130;*,*",
+      "totalVotes": "665",
+      "reviews": "512",
+      "rating": "4.3",
+      "costforone": "₹600",
+      "categories": "Continental, Asian, Pizza, Deserts"
+    },
+    {
+      "id": 2,
+      "name": "URU Brewpark",
+      "min": "50",
+      "paymentMethods": "Accepts Online payment only",
+      "imgURL": "https://b.zmtcdn.com/data/dish_photos/dfd/22d16d38881a4a13b834cb738f490dfd.jpg?fit=around|130:130&crop=130:130;*,*",
+      "totalVotes": "665",
+      "reviews": "512",
+      "rating": "4.3",
+      "costforone": "₹600",
+      "categories": "Continental, Asian, Pizza, Deserts"
+    },
+    {
+      "id": 3,
+      "name": "URU Brewpark",
+      "min": "50",
+      "paymentMethods": "Accepts Online payment only",
+      "imgURL": "https://b.zmtcdn.com/data/dish_photos/a81/733c547957c0cb0fbac40c5d3f632a81.jpg?fit=around|130:130&crop=130:130;*,*",
+      "totalVotes": "665",
+      "reviews": "512",
+      "rating": "4.3",
+      "costforone": "₹600",
+      "categories": "Continental, Asian, Pizza, Deserts"
+    },
+    {
+      "id": 4,
+      "name": "URU Brewpark",
+      "min": "50",
+      "paymentMethods": "Accepts Online payment only",
+      "imgURL": "https://b.zmtcdn.com/data/dish_photos/f08/3d379f4a6cd12cc274432e5d5cacff08.png?fit=around|130:130&crop=130:130;*,*",
+      "totalVotes": "665",
+      "reviews": "512",
+      "rating": "4.3",
+      "costforone": "₹600",
+      "categories": "Continental, Asian, Pizza, Deserts"
+    },
+    {
+      "id": 5,
+      "name": "URU Brewpark",
+      "min": "50",
+      "paymentMethods": "Accepts Online payment only",
+      "imgURL": "https://b.zmtcdn.com/data/dish_photos/6ab/c7ec2fe25efc81adab27630abed2e6ab.jpg?fit=around|130:130&crop=130:130;*,*",
+      "totalVotes": "665",
+      "reviews": "512",
+      "rating": "4.3",
+      "costforone": "₹600",
+      "categories": "Continental, Asian, Pizza, Deserts"
+    },
+    {
+      "id": 6,
+      "name": "URU Brewpark",
+      "min": "50",
+      "paymentMethods": "Accepts Online payment only",
+      "imgURL": "https://b.zmtcdn.com/data/dish_photos/b18/b913bfd6267f15dacf659b193912cb18.jpg?fit=around|130:130&crop=130:130;*,*",
+      "totalVotes": "665",
+      "reviews": "512",
+      "rating": "4.3",
+      "costforone": "₹600",
+      "categories": "Continental, Asian, Pizza, Deserts"
+    },
+    {
+      "id": 7,
+      "name": "URU Brewpark",
+      "min": "50",
+      "paymentMethods": "Accepts Online payment only",
+      "imgURL": "https://b.zmtcdn.com/data/dish_photos/ffb/55ad859abbc32f08b3a2b6e4d5240ffb.jpg?fit=around|130:130&crop=130:130;*,*",
+      "totalVotes": "665",
+      "reviews": "512",
+      "rating": "4.3",
+      "costforone": "₹600",
+      "categories": "Continental, Asian, Pizza, Deserts"
+    },
+    {
+      "id": 8,
+      "name": "URU Brewpark",
+      "min": "50",
+      "paymentMethods": "Accepts Online payment only",
+      "imgURL": "https://b.zmtcdn.com/data/dish_photos/122/c0bdafde81ccb42a9afef46ce0716122.jpg?fit=around|130:130&crop=130:130;*,*",
+      "totalVotes": "665",
+      "reviews": "512",
+      "rating": "4.3",
+      "costforone": "₹600",
+      "categories": "Continental, Asian, Pizza, Deserts"
+    },
+    {
+      "id": 9,
+      "name": "URU Brewpark",
+      "min": "50",
+      "paymentMethods": "Accepts Online payment only",
+      "imgURL": "https://b.zmtcdn.com/data/dish_photos/93a/a4a5b2d93f1b03d345acf33f59dab93a.jpg?fit=around|130:130&crop=130:130;*,*",
+      "totalVotes": "665",
+      "reviews": "512",
+      "rating": "4.3",
+      "costforone": "₹600",
+      "categories": "Continental, Asian, Pizza, Deserts"
+    },
+    {
+      "id": 10,
+      "name": "URU Brewpark",
+      "min": "50",
+      "paymentMethods": "Accepts Online payment only",
+      "imgURL": "https://b.zmtcdn.com/data/dish_photos/2b0/3aa0487817e3617eee0ca8fcb35f92b0.png?fit=around|130:130&crop=130:130;*,*",
+      "totalVotes": "665",
+      "reviews": "512",
+      "rating": "4.3",
+      "costforone": "₹600",
+      "categories": "Continental, Asian, Pizza, Deserts"
+    },
+    {
+      "name": "Parth Bisht",
+      "categories": "continental,indian",
+      "imgURL": "https://b.zmtcdn.com/data/dish_photos/d21/db898f3cf54de0e06970c343f680dd21.jpg?fit=around|130:130&crop=130:130;*,*",
+      "paymentMethods": "Accepts Cash only",
+      "totalVotes": "12",
+      "reviews": "12",
+      "rating": "2",
+      "costforone": "222",
+      "id": 11
+    }
+  ]
+}
