@@ -1,0 +1,68 @@
+{
+  "men": [
+    {
+      "id": 1,
+      "title": "Sweater",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cable-knit-1610640392.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*"
+    },
+    {
+      "id": 2,
+      "title": "Pants",
+      "image": "https://luxuryoutletonline.eu/9953-large_default_new/gianni-kavanagh-khaki-regular-fit-cargo-pants.jpg"
+    },
+    {
+      "id": 3,
+      "title": "watch",
+      "image": "https://cdn4.ethoswatches.com/the-watch-guide/wp-content/uploads/2022/01/Girard-Perregaux-Neo-Bridges-Portrait-Faded.jpg"
+    },
+    {
+      "id": 4,
+      "title": "tshirts",
+      "image": "https://cms.cloudinary.vpsvc.com//image/fetch/q_auto:eco,w_700,f_auto,dpr_auto/https://s3-eu-west-1.amazonaws.com/sitecore-media-bucket/prod%2Fen-IN%2F%7B7D231F75-EF1F-4C5F-87C6-DE6F74E6B0E9%7D%3Fv%3Dba19af96432e2f7da628e8f268ce12ea"
+    }
+  ],
+  "women": [
+    {
+      "id": 1,
+      "title": "Sweater",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-720w,f_auto,q_auto:best/newscms/2021_32/1760932/51efgtbzuol-sl500--611567d716695.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Pants",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211012/gYIl/6165b811aeb2692b85d1c091/-473Wx593H-462140625-brown-MODEL.jpg"
+    },
+    {
+      "id": 3,
+      "title": "watch",
+      "image": "https://www.helioswatchstore.com/sites/default/files/AR1682_1_1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "tshirts",
+      "image": "https://cdn.shopify.com/s/files/1/0266/6276/4597/products/300894045LIMEGREEN_2_1024x1024.jpg?v=1647451226"
+    }
+  ],
+  "kids": [
+    {
+      "id": 1,
+      "title": "Sweater",
+      "image": "https://img.joomcdn.net/3e41871d231b86dbd3cec2bf6780b1db101576c6_original.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Pants",
+      "image": "https://n3.sdlcdn.com/imgs/h/g/n/Boys-Pants-Jeans-2017-Fashion-SDL856017304-1-4a09c.jpg"
+    },
+    {
+      "id": 3,
+      "title": "watch",
+      "image": "https://qq-watch.jp/eng/kids/img/index_im01.png"
+    },
+    {
+      "id": 4,
+      "title": "tshirts",
+      "image": "https://m.media-amazon.com/images/I/61JTCwBFNqL._UY550_.jpg"
+    }
+  ]
+}
