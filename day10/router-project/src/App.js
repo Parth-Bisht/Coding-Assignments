@@ -8,6 +8,8 @@ import Faq from './pages/Faq';
 import Home from './pages/Home';
 import Kids from './pages/Kids';
 import Mens from './pages/Mens';
+import Multiproduct from './pages/Multiproduct';
+import Singleproduct from './pages/Singleproduct';
 import Womens from './pages/Womens';
 
 function App() {
@@ -20,6 +22,8 @@ function App() {
     <Route path="contactus" element={<ContactUs/>}></Route>
     <Route path="faq" element={<Faq/>}></Route>
     <Route path="men" element={<Mens/>}></Route>
+      <Route path="men/:xyz" element={<Multiproduct/>}></Route>
+      <Route path="men/:xyz/:id" element={<Singleproduct/>}></Route>
     <Route path="women" element={<Womens/>}></Route>
     <Route path="kids" element={<Kids/>}></Route>
     </Routes>

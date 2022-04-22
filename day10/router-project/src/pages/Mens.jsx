@@ -11,9 +11,9 @@ function Mens() {
   },[])
   return (
     <div className="container">
-    <div className="row">
+    <div className="row my-4">
       {products.map((items)=>{
-        return <div key={items.id} className="col-md-4"><ProductCard img={items.image} title={items.title}/></div>
+        return <div key={items.id} className="col-md-4"><ProductCard width={"18rem"} img={items.image} title={items.title}/></div>
       })}
 
     </div>
