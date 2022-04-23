@@ -1,8 +1,15 @@
 import React from 'react';
 import {FaShoppingCart} from 'react-icons/fa';
-import {Link} from 'react-router-dom';
+import {Link, useNavigate} from 'react-router-dom';
 
 function Navbar() {
+  const navigate = useNavigate();
+  const gotoLogin = ()=>{
+    navigate("/login")
+  }
+  const gotoCart = ()=>{
+    navigate("/cart")
+  }
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
   <div className="container-fluid">
@@ -37,7 +44,8 @@ function Navbar() {
         </li>
       </ul>
       <div>
-      <FaShoppingCart color="white"/>
+      <FaShoppingCart onClick={gotoCart} cursor="pointer" color="white"/>
+      <button onClick={gotoLogin} type="button" className="btn btn-outline-success mx-2">Login</button>
       </div>
     </div>
   </div>

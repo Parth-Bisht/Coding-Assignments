@@ -26,43 +26,43 @@
       "id": 1,
       "title": "Sweater",
       "image": "https://m.media-amazon.com/images/I/61DCGZ4mBFL._AC_UL320_.jpg",
-      "mrp":"₹3999"
+      "mrp":"3999"
     },
     {
       "id": 2,
       "title": "Mens Woollen Turtleneck Sweater for Winter wear",
       "image": "https://m.media-amazon.com/images/I/91Z0lHrckjL._AC_UL320_.jpg",
-      "mrp":"₹4999"
+      "mrp":"4999"
     },
     {
       "id": 3,
       "title": "Men's Casual Acrylic Sweater",
       "image": "https://m.media-amazon.com/images/I/71BBmq78EGL._AC_UL320_.jpg",
-      "mrp":"₹3999"
+      "mrp":"3999"
     },
     {
       "id": 4,
       "title": "Men's Cotton Turtleneck Sweater for Winter Wear",
       "image": "https://m.media-amazon.com/images/I/51osqw361lL._AC_UL320_.jpg",
-      "mrp":"₹5999"
+      "mrp":"5999"
     },
     {
       "id": 5,
       "title": "Mens Woollen Turtleneck Sweater for Winter wear",
       "image": "https://m.media-amazon.com/images/I/91Z0lHrckjL._AC_UL320_.jpg",
-      "mrp":"₹5999"
+      "mrp":"5999"
     },
     {
       "id": 6,
       "title": "Men's Casual Acrylic Sweater",
       "image": "https://m.media-amazon.com/images/I/71BBmq78EGL._AC_UL320_.jpg",
-      "mrp":"₹3999"
+      "mrp":"3999"
     },
     {
       "id": 7,
       "title": "Men's Cotton Turtleneck Sweater for Winter Wear",
       "image": "https://m.media-amazon.com/images/I/51osqw361lL._AC_UL320_.jpg",
-      "mrp":"₹3999"
+      "mrp":"3999"
     }
   ],
   "menpants": [
@@ -70,37 +70,37 @@
       "id": 1,
       "title": "Formal Trousers",
       "image": "https://cdn.shopify.com/s/files/1/0266/6276/4597/products/100001_300796730_068_1.jpg?v=1576765949",
-      "mrp":"₹7999"
+      "mrp":"7999"
     },
     {
       "id": 2,
       "title": "Men's Regular Fit Trackpants",
       "image": "https://m.media-amazon.com/images/I/61R11o1DC+S._AC_UL320_.jpg",
-      "mrp":"₹499"
+      "mrp":"499"
     },
     {
       "id": 3,
       "title": "Men's Slim Fit Track pants",
       "image": "https://m.media-amazon.com/images/I/71r3RWbLWAL._AC_UL320_.jpg",
-      "mrp":"₹499"
+      "mrp":"499"
     },
     {
       "id": 4,
       "title": "Men's Relaxed Jeans",
       "image": "https://m.media-amazon.com/images/I/616xchp1ECL._AC_UL320_.jpg",
-      "mrp":"₹599"
+      "mrp":"599"
     },
     {
       "id": 5,
       "title": "Men's Relaxed Jeans",
       "image": "https://m.media-amazon.com/images/I/616xchp1ECL._AC_UL320_.jpg",
-      "mrp":"₹599"
+      "mrp":"599"
     },
     {
       "id": 6,
       "title": "Men's Slim Fit Track pants",
       "image": "https://m.media-amazon.com/images/I/71r3RWbLWAL._AC_UL320_.jpg",
-      "mrp":"₹499"
+      "mrp":"499"
     }
   ],
   "menwatch": [
@@ -108,31 +108,31 @@
       "id": 1,
       "title": "Analog Men's Watch",
       "image": "https://m.media-amazon.com/images/I/71Kx6rgmlRS._AC_UL320_.jpg",
-      "mrp":"₹7999"
+      "mrp":"7999"
     },
     {
       "id": 2,
       "title": "Edge Ceramic Analog White Dial Men's Watch",
       "image": "https://m.media-amazon.com/images/I/61jvx4fSyCL._AC_UL320_.jpg",
-      "mrp":"₹25,999"
+      "mrp":"25999"
     },
     {
       "id": 3,
       "title": "Analog Blue Dial Men's Watch-NN1696QC03/NP1696QC03",
       "image": "https://m.media-amazon.com/images/I/71eR4WyX13L._AC_UL320_.jpg",
-      "mrp":"₹24,999"
+      "mrp":"24999"
     },
     {
       "id": 4,
       "title": "Business Watch Mens Luxury Brand Casual Digital Man Watch",
       "image": "https://m.media-amazon.com/images/I/81aEolfpwvS._AC_UL320_.jpg",
-      "mrp":"₹1599"
+      "mrp":"1599"
     },
     {
       "id": 5,
       "title": "Edge Ceramic Analog White Dial Men's Watch",
       "image": "https://m.media-amazon.com/images/I/61jvx4fSyCL._AC_UL320_.jpg",
-      "mrp":"₹25,999"
+      "mrp":"25999"
     }
   ],
   "mentshirt": [
@@ -140,37 +140,37 @@
       "id": 1,
       "title": "Men's Regular fit T-Shirt",
       "image": "https://m.media-amazon.com/images/I/81DuycYl7ZL._AC_UL320_.jpg",
-      "mrp":"₹749"
+      "mrp":"749"
     },
     {
       "id": 2,
       "title": "Men's Solid Regular Fit Polo",
       "image": "https://m.media-amazon.com/images/I/81oHvabgbKL._AC_UL320_.jpg",
-      "mrp":"₹980"
+      "mrp":"980"
     },
     {
       "id": 3,
       "title": "Men's Regular Fit T-Shirt",
       "image": "https://m.media-amazon.com/images/I/71jNGwfQw4L._AC_UL320_.jpg",
-      "mrp":"₹685"
+      "mrp":"685"
     },
     {
       "id": 4,
       "title": "Men's Solid Regular Fit Polo",
       "image": "https://m.media-amazon.com/images/I/71W+I4ogd7L._AC_UL320_.jpg",
-      "mrp":"₹459"
+      "mrp":"459"
     },
     {
       "id": 5,
       "title": "Men's Regular fit T-Shirt",
       "image": "https://m.media-amazon.com/images/I/81DuycYl7ZL._AC_UL320_.jpg",
-      "mrp":"₹749"
+      "mrp":"749"
     },
     {
       "id": 6,
       "title": "Men's Solid Regular Fit Polo",
       "image": "https://m.media-amazon.com/images/I/81oHvabgbKL._AC_UL320_.jpg",
-      "mrp":"₹980"
+      "mrp":"980"
     }
   ],
   "women": [
