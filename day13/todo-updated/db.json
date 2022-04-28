@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Learn Everything",
+      "status": true,
+      "id": "f94f2cc2-7d69-4ab7-95bf-d778044d6440"
+    },
+    {
+      "title": "Learn React",
+      "status": true,
+      "id": "9abc1277-3ceb-4139-895a-7d9c7e99a6c7"
+    },
+    {
+      "title": "Learn ",
+      "status": false,
+      "id": "05782aca-7ac9-4a95-8ffc-348e346a073c"
+    }
+  ]
+}
